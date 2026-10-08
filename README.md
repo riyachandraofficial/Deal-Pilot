@@ -13,7 +13,7 @@ A full-stack internal sales tool for creating customer quotes, calculating prici
 <table>
   <tr>
     <td><img src="images/home.png" alt="Home Page"></td>
-    <td><img src="dimages/quote-builder.png" alt="Quote Builder"></td>
+    <td><img src="images/quote-builder.png" alt="Quote Builder"></td>
   </tr>
   <tr>
     <td><img src="images/quotes.png" alt="Quotes"></td>
