@@ -6,6 +6,20 @@ A full-stack internal sales tool for creating customer quotes, calculating prici
 
 [**Open the deployed application**](https://deal-pilot-sim.vercel.app/)
 
+---
+
+## 📸 Application Screenshots
+
+<table>
+  <tr>
+    <td><img src="images/home.png" alt="Home Page"></td>
+    <td><img src="dimages/quote-builder.png" alt="Quote Builder"></td>
+  </tr>
+  <tr>
+    <td><img src="images/quotes.png" alt="Quotes"></td>
+    <td><img src="images/approvals.png" alt="Approval Dashboard"></td>
+  </tr>
+</table>
 
 ---
 
