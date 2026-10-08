@@ -1,12 +1,5 @@
 import type { Issue, IssueLoc, Quote, QuoteDraftRequest } from "./types";
 
-/**
- * Form state for the quote builder.
- *
- * Inputs are kept as the strings the rep typed. Converting to numbers happens
- * only when building the API request, so "12." or "" never get silently
- * coerced into something the rep didn't mean — the API validates and explains.
- */
 export interface LineDraft {
   /** Stable React key; survives reordering/removal unlike the array index. */
   key: string;
